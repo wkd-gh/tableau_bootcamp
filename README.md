@@ -1,2 +1,14 @@
-# tableau_bootcamp
-Tableau Bootcamp 27기
+# 📊 Tableau Bootcamp 27기 과제 모음
+
+해당 Repo는 **Tableau 부트캠프 27기** 동안 수행한 퀘스트(과제)들을 정리한 공간입니다.
+
+## 📁 포함된 내용
+
+- 1일차 ~ 10일차: 각 일차 별 과제 데이터
+
+각 파일은 수업 중 사용된 데이터로, Tableau를 활용한 시각화 및 분석 실습에 사용됩니다.
+
+## 📌 참고
+
+Tableau Desktop 또는 Tableau Public을 사용하여 각 데이터를 불러오고 시각화를 진행할 수 있습니다.
+
